@@ -11,11 +11,11 @@ import AnimatedLogo from "./AnimatedLogo";
 
 function Footer() {
   const socialIcons = [
-    { name: "GitHub", icon: <AiFillGithub />, link: "https://github.com/yashigupta4623" },
-    { name: "Linkedin", icon: <AiFillLinkedin />, link: "https://www.linkedin.com/in/yashi-gupta-a65218232/" },
-    { name: "Instagram", icon: <AiFillInstagram />, link: "https://www.instagram.com/probablyashi/" },
-    { name: "Mail", icon: <AiFillMail />, link: "mailto:yashig406@gmail.com" },
-    { name: "Twitter", icon: <AiFillTwitterCircle />, link: "https://twitter.com/yashig406" },
+    { name: "GitHub", icon: <AiFillGithub />, link: "https://github.com/anmolmishra09" },
+    { name: "Linkedin", icon: <AiFillLinkedin />, link: "https://www.linkedin.com/in/anmolmishra09/" },
+    { name: "Instagram", icon: <AiFillInstagram />, link: "https://www.instagram.com/anmolmishra09/" },
+    { name: "Mail", icon: <AiFillMail />, link: "mailto:anmolmishra86229@gmail.com" },
+    { name: "Twitter", icon: <AiFillTwitterCircle />, link: "https://twitter.com/anmolmishra09" },
   ];
 
   const footerLinks = [
@@ -109,7 +109,7 @@ function Footer() {
           </p>
           <div className="flex items-center gap-2">
             <p className="text-sm text-gray-500 dark:text-gray-400">
-              Made with <span className="text-red-500 animate-pulse">❤</span> by Flux
+              Made with <span className="text-red-500 animate-pulse">❤</span> by Dominator
             </p>
           </div>
         </div>
