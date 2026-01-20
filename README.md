@@ -44,7 +44,7 @@ WanderMind is an AI-powered trip planner using React, Gemini AI, Firebase, and T
 
 
 ## Live Demonstration
-🔗 **Check out WanderMind live:** [Live Application](https://wander-mind-eight.vercel.app/)
+🔗 **Check out WanderMind live:** [Live Application](https://wandermindaiin.vercel.app/)
 
 ## Screenshots
 _Add screenshots here to showcase the UI and functionality._
